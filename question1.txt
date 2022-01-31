@@ -1,0 +1,14 @@
+1 - What's function composition?
+
+
+In Maths, the composition of a function is an operation where two functions say f and g generate a new function
+say h in such a way that h(x) = g(f(x)). It means here function g is applied to the function of x.
+So, basically, a function is applied to the result of another function.
+
+
+A composite function is generally a function that is written inside another function.
+Composition of a function is done by substituting one function into another function.
+For example, f [g (x)] is the composite function of f (x) and g (x).
+
+
+2 - How do you update an array keeping functional programming principles in mind?
